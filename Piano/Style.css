@@ -1,0 +1,58 @@
+.main {
+    font-family: serif;
+    background: radial-gradient(circle, orange, red, yellow);
+}
+
+.bd {
+    background: linear-gradient(to right, orange, red, yellow);
+}
+
+.bt {
+    padding-top: 50px;
+}
+
+.button {
+    padding: 50px;
+    border-radius: 50%;
+    font: bolder;
+    color: black;
+    background-size: 130px 130px;
+    background-repeat: no-repeat;
+    font-size: 20px;
+}
+
+.a {
+    background-image: url(image/b1.jpg);
+}
+
+.s {
+    background-image: url(image/b10.jpg);
+}
+
+.d {
+    background-image: url(image/b2.jpg);
+}
+
+.f {
+    background-image: url(image/b3.jpg);
+}
+
+.g {
+    background-image: url(image/b4.jpg);
+}
+
+.h {
+    background-image: url(image/b5.jpg);
+}
+
+.j {
+    background-image: url(image/b6.jpg);
+}
+
+.k {
+    background-image: url(image/b7.jpg);
+}
+
+.l {
+    background-image: url(image/b8.jpg);
+}
